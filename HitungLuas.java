@@ -7,6 +7,17 @@ public static int cariLuasPersegiPanjang(int a, int b){
    return luas;
 }
 
+<<<<<<< HEAD
+=======
+public static double cariLuasLingkaran(int jarijari){
+   int luas;
+   double phi = 3.14;
+   double luas,keliling;
+   luas = 0.5 * phi * jarijari * jarijari;
+   return luas;
+}
+
+>>>>>>> luaslingkaran
 public static void main(String[] args) {
    int panjang;
    int lebar;
